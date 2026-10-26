@@ -28,6 +28,8 @@ Graphics: Blender, RenderDoc, Adobe Photoshop, Adobe Substance 3D Designer & Pai
 
 ### My Work
 
+[blog](https://xen-ial.github.io/): Personal blog to show projects, papers, and findings. Built in C# .Net 10 (Blazor).
+
 [ftracer](https://github.com/Xen-ial/ftracer): FTracer is a modern approach as a wrapper for FANotify. It currently supports attaching and watching file events on a mount/drive/folder.  
 FTracer's purpose is to trace files that are opened, closed, or created. While not complete it can be used as a base to expand RE tooling, malware research, and other uses cases as seem fit.  
 
