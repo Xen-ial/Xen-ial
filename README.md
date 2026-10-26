@@ -30,3 +30,6 @@ Graphics: Blender, RenderDoc, Adobe Photoshop, Adobe Substance 3D Designer & Pai
 
 [ftracer](https://github.com/Xen-ial/ftracer): FTracer is a modern approach as a wrapper for FANotify. It currently supports attaching and watching file events on a mount/drive/folder.  
 FTracer's purpose is to trace files that are opened, closed, or created. While not complete it can be used as a base to expand RE tooling, malware research, and other uses cases as seem fit.  
+
+[IMDUI](https://github.com/ck0i/IMDUI): ImDUI is a directx 2d overlay library meant to replace the common pitfalls of using ImGui for game overlays.  
+It includes a layout engine, animated controls, editable text, SVG images, and a configurable settings menu. It is a collaboration between myself & Koi.
