@@ -35,3 +35,5 @@ FTracer's purpose is to trace files that are opened, closed, or created. While n
 
 [IMDUI](https://github.com/ck0i/IMDUI): ImDUI is a directx 2d overlay library meant to replace the common pitfalls of using ImGui for game overlays.  
 It includes a layout engine, animated controls, editable text, SVG images, and a configurable settings menu. It is a collaboration between myself & Koi.
+
+[NETHOST](https://github.com/Xen-ial/nethost): .NET 10 native host scripting library, aimed for enabling scripting or general usage of hosting native .NET contexts.
